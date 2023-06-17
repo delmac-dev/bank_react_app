@@ -1,1 +1,1 @@
-## Modern React BAnk App
+## Modern React Bank App
