@@ -2,7 +2,7 @@
 
 Step into a modernized banking experience with my latest creation – a React-powered banking landing page. This sleek and intuitive page, developed with guidance from an insightful tutorial, offers a streamlined glimpse into the future of digital banking. The dynamic user interface ensures smooth navigation, while an innovative account dashboard provides a snapshot of key financial information. Secure and responsive, this landing page is designed for easy access on any device, offering a taste of the enhanced possibilities that technology brings to your banking experience.
 
-The website is deployed and can be accessed at [bank-react-app.vercel.app](https://bank-react-app.vercel.app/)
+The website is deployed and can be accessed at [bank-react-app.vercel.app](https://bank-react-app-ten.vercel.app//)
 
 ## Frameworks
 
