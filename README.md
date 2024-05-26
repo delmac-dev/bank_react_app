@@ -4,6 +4,10 @@ Step into a modernized banking experience with my latest creation – a React-po
 
 The website is deployed and can be accessed at [bank-react-app.vercel.app](https://bank-react-app-ten.vercel.app//)
 
+## Screenshot
+
+![hoobank](https://github.com/delmac-dev/bank_react_app/assets/136045782/b256c1e8-955d-4dfc-a064-c712a225f2a4)
+
 ## Frameworks
 
 - ReactJS
